@@ -10,8 +10,8 @@ def main():
     count=defaultdict(int)
     F=defaultdict(list)
     k=1
-    d="data3.txt"
-    p="Para3.txt"
+    d="data.txt"
+    p="para.txt"
     S=Read_Data(d)
     MS,SDC=Read_Para(p)
     N=len(S)

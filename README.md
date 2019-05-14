@@ -1,4 +1,4 @@
-MS-GSP algorithm for CS 583
+## **MS-GSP algorithm for CS 583**
 
 Written in Python3
 
